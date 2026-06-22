@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Curicó
+
+> Geotechnical engineering services in Curicó, Chile.
+
+## Services
+- [Aislacion Sismica](https://curico.geotecnia1.vip/aislacion-sismica/)
+- [Anclajes](https://curico.geotecnia1.vip/anclajes/)
+- [Calicatas](https://curico.geotecnia1.vip/calicatas/)
+- [Cbr Vial](https://curico.geotecnia1.vip/cbr-vial/)
+- [Cimentaciones](https://curico.geotecnia1.vip/cimentaciones/)
+- [Columnas Grava](https://curico.geotecnia1.vip/columnas-grava/)
+- [Densidad Cono Arena](https://curico.geotecnia1.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://curico.geotecnia1.vip/ensayo-cpt/)
+- [Ensayos Proctor](https://curico.geotecnia1.vip/ensayos-proctor/)
+- [Estabilidad Taludes](https://curico.geotecnia1.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://curico.geotecnia1.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://curico.geotecnia1.vip/excavaciones-subterraneo/)
+- [Exploracion](https://curico.geotecnia1.vip/exploracion/)
+- [Geotecnia Vial](https://curico.geotecnia1.vip/geotecnia-vial/)
+- [Granulometria](https://curico.geotecnia1.vip/granulometria/)
+- [Inyecciones](https://curico.geotecnia1.vip/inyecciones/)
+- [Laboratorio In Situ](https://curico.geotecnia1.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://curico.geotecnia1.vip/laboratorio-lab/)
+- [Licuefaccion](https://curico.geotecnia1.vip/licuefaccion/)
+- [Limites Atterberg](https://curico.geotecnia1.vip/limites-atterberg/)
+- [Losas Fundacion](https://curico.geotecnia1.vip/losas-fundacion/)
+- [Masw](https://curico.geotecnia1.vip/masw/)
+- [Mejoramiento](https://curico.geotecnia1.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://curico.geotecnia1.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://curico.geotecnia1.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://curico.geotecnia1.vip/muros-contencion/)
+- [Pavimento Flexible](https://curico.geotecnia1.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://curico.geotecnia1.vip/pavimento-rigido/)
+- [Permeabilidad In Situ](https://curico.geotecnia1.vip/permeabilidad-in-situ/)
+- [Pilotes](https://curico.geotecnia1.vip/pilotes/)
+- [Refraccion Sismica](https://curico.geotecnia1.vip/refraccion-sismica/)
+- [Resistividad](https://curico.geotecnia1.vip/resistividad/)
+- [Sismica](https://curico.geotecnia1.vip/sismica/)
+- [Sondajes Spt](https://curico.geotecnia1.vip/sondajes-spt/)
+- [Taludes](https://curico.geotecnia1.vip/taludes/)
+- [Triaxial](https://curico.geotecnia1.vip/triaxial/)
+- [Tuneles Suelo Blando](https://curico.geotecnia1.vip/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://curico.geotecnia1.vip/vibrocompactacion/)
+- [Zapatas](https://curico.geotecnia1.vip/zapatas/)
+
+## Contact
+- Website: https://curico.geotecnia1.vip/
+
+## About
+This site provides geotechnical engineering services in Curicó, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
